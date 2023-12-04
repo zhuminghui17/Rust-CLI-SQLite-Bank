@@ -111,6 +111,9 @@ cargo test
 
 Ensure Rust and its package manager, Cargo, are installed on your system. SQLite is used through the `rusqlite`` crate, so you do not need to install SQLite separately.
 
+## Use of GitHub Copilot
+GitHub Copilot significantly enhanced the development of our Rust CLI banking application. As an AI-driven coding assistant, it provided real-time code suggestions, simplifying complex tasks like handling Rust's unique syntax and optimizing SQLite queries. This tool was instrumental in speeding up development, ensuring code quality, and introducing innovative coding techniques.
+
 ## Requirements:
 
 Your project should include the following:
