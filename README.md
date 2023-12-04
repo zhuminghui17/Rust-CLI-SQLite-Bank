@@ -3,6 +3,8 @@
 ## Introduction
 This application is a command-line banking system implemented in Rust, using SQLite for data storage. It allows users to create bank accounts, deposit and withdraw funds, transfer money between accounts, and view transaction histories.
 
+Video Demo: https://youtu.be/M1_ZwAxccQY
+
 ## Requirements
 - Rust Programming Language
 - SQLite
